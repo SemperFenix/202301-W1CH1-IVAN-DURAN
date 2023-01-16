@@ -1,7 +1,7 @@
-#Challenge Week 1
+# Challenge Week 1
 
 Subir un repositorio y utilizar netlify para crear un sitio web que lo ejecute.
 
-#Pasapalabra HTML
+# Pasapalabra HTML
 
 Juego de pasapalabra.
